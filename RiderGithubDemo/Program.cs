@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, GitHub!");
+        Console.WriteLine("HELLO GITHUB WORLD");
+        Console.WriteLine("---------");
         Console.WriteLine("A");
         Console.WriteLine("B");
         Console.WriteLine("C");
