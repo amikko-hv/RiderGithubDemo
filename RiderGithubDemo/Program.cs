@@ -7,5 +7,6 @@ class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, GitHub!");
         Console.WriteLine("A");
+        Console.WriteLine("B");
     }
 }
